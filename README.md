@@ -1,2 +1,2 @@
 # node-excel-processing
-process excel file in node js using streams
+process excel file in node js using stream
