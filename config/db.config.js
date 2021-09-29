@@ -1,7 +1,7 @@
 module.exports = {
-  HOST: "bbpnew-cluster.cluster-cvtgekyvscg5.us-east-1.rds.amazonaws.com",
-  USER: "bBpAdminDb",
-  PASSWORD: "NGLAkI8pAmtF14pFc6Uv",
+  HOST: "localhost",
+  USER: "root",
+  PASSWORD: "",
   DB: "developBBPDBNew",
   dialect: "mysql",
   pool: {
